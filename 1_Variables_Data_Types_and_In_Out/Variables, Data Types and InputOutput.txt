@@ -1,0 +1,21 @@
+		Variables, Data Types & Input/Output 
+
+1.Show the following patterns just using print statements:
+
+2.Show the following patterns using single print statement:
+
+3.Create a program to input name of the person and respond with "welcome NAME to KG Coding".
+
+4.Create a program to declare two integer variables, assign them values, and display their values.
+
+5.Create a program to declares one variable of each of the fundamental data types (int, float, double, char) and prints their size using sizeof() operator.
+
+6.Define variables for storing a user's first name, last name, and age using appropriate naming conventions and then display them.
+
+7.Create a program to print the area of a square by inputting its side length.
+
+8.Create a program to define a constant for the mathematical value pi (3.14159) and use it to calculate and print the circumference of a circle with a radius input from user.
+
+9.Create a program to print the area of a circle by inputting its radius.
+
+10.Create a program to swap two numbers.

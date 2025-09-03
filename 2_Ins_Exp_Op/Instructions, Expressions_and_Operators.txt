@@ -1,0 +1,22 @@
+	Instructions, Expressions & Operators
+
+11.Create a program that takes two numbers and shows result of all arithmetic operators (+, -, *, /, %).
+
+12.Given an integer value, convert it to a floating-point value and print both.
+
+13.Create a program to calculate product of two floating points numbers.
+
+14.Create a program to calculate Perimeter of a rectangle.
+Perimeter of rectangle ABCD = A+B+C+D
+
+15.Create a program to calculate the Area of a Triangle.
+Area of triangle = 1/2*B*H
+
+16.Create a program to calculate simple interest.
+Simple Interest = (P x T x R)/100
+
+17.Create a program to calculate Compound interest.
+Compound Interest = P(1 + R/100)t
+
+18.Create a program to convert Fahrenheit to Celsius
+C = (F - 32) x 5/9

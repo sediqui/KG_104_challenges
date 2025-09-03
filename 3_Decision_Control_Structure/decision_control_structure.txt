@@ -1,0 +1,48 @@
+		Decision Control Structure
+	      if-else, switch, Goto, ternary 
+
+19.Create a program that determines if a number is positive, negative, or zero.
+
+20.Create a program that determines if number is odd or even.
+
+21.Create a program that determines the greatest of three numbers.
+
+22.Create a program that determines if a given year is a leap year (considering conditions like divisible by 4 but not 100, unless also divisible by 400.
+
+23.Create a program that calculates grades based on marks:
+A -> above 90%   B -> above 75%  C -> above 60%  D -> above 30% F -> below 30%
+
+24.Create a program that categorize a person into different age groups:
+child -> below 13   teen -> below 20  adult -> below 60  senior -> above 60
+
+25.Create a program to find the minimum of two numbers using ternary operator.
+
+26.Create a program to find if the given number is even or odd using ternary operator.
+
+27.Create a program to calculate the absolute value of a given integer using ternary operator.
+
+28.Create a program to Based on a student's score, categorize as "High", "Moderate", or "Low" using the ternary operator (e.g., High for scores > 80, moderate for 50-80, low for < 50).
+
+29.Create a program to print the month of the year based on a number (1-12) input by the user.
+
+30.Create a program to create a simple calculator that uses a switch statement to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
