@@ -1,0 +1,8 @@
+		Data Types and Storage Classes 
+
+63.Create a program that converts a large number of kilometers to miles, using long or long long to store the distance.
+
+64.write a program to demonstrate the difference in range between long and long long by calculating the factorial of 20.
+
+65.Write a c program that initializes an unsigned int to its maximum possible value and an int to a negative number. Add 1 to both, and print the results to show how the unsigned int wraps around to 0, whereas the int remains negative due to overflow.
+ 

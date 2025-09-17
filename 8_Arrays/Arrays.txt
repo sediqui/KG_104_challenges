@@ -1,0 +1,25 @@
+		         Arrays 
+
+66.Create a program to find the sum and average of all elements in an array.
+
+67.Create a program to find number of occurrences of an element in an array.
+
+68.Create a program to find the maximum and minimum element in an array.
+
+69.Create a program to check if the given array is sorted.
+
+70.Create a program to return a new array deleting a specific element.
+
+71.Create a program to reverse an array.
+
+72.Create a program to check is the array is palindrome or not.
+
+73.Write a function that uses pointer arithmetic to copy an array of char into another.
+
+74.Create a program to merge two sorted arrays.
+
+75.Create a program to search an element in a 2-D array.
+
+76.Create a program to do sum and average of all elements in a 2-array.
+
+77.Create a program to find the sum of two diagonal elements.

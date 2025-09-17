@@ -1,0 +1,9 @@
+		        Pointers 
+
+59.Write a program that declares an integer variable and a pointer to it. Assign a value and print it using the pointer.
+
+60.Write a program to change the value of an integer variable using a pointer and the  * operator.
+
+61.Declare a pointer to a char and use it to read and print a character entered by the user. 
+
+62.Implement a void minmax(int *a, int *b, int *min, int *max) function that takes two integer pointers a and b as input and assigns the smaller value to min and the larger value to max using call by reference. Write a main function to test it with different values.

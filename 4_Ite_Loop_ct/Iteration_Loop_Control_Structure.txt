@@ -11,3 +11,54 @@
 35.Create a program to find the Least Common Multiple (LCM) of two numbers.
 
 36.Create a program to find the Greatest Common Divisor (GCD) of two integers.
+
+37.Create a program to check whether a given number is prime using while.
+
+38.Create a program to reverse the digits of a number.
+
+39.Create a program to print the Fibonacci series up to a certain number.
+
+40.Create a program to check if a number is an Armstrong number.
+
+41.Create a program to verify if a number is a palindrome.
+
+42.Create a program that print patterns:
+*  * * * *        *
+* *  * * *      * *  
+* * *  * *    * * *
+* * * *  *  * * * *
+
+43.Create a program that prompts the user to enter a positive number. Use a do-while loop to keep asking for the number until the user enters a valid positive number.
+
+44.Develop a program that calculates the sum of all numbers entered by a user until the user enters 0. The total sum should then be displayed.
+
+45.Create a program using for loop multiplication table for a number.
+
+46.Create a program using for to display if a number is prime or not.
+
+47.Create a program using continue to sum all positive numbers entered by the user; skip any negative number.
+
+48.Create a program using continue to print only even numbers using continue for odd numbers.
+
+49.Write a program that continuously reads integers from the user and prints their squares. use an infinite loop and a break statement to exit when a special number (e.g., -1) is entered.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

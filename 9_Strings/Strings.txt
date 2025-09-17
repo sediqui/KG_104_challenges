@@ -1,0 +1,21 @@
+														Strings
+
+78.Read a line of text from the user using fGets and then print it using puts.
+
+79.Use printf with format specifiers to format and print a date string (day, month, year).
+
+80.Write a program to convert an input string to uppercase.
+
+81.Create a simple text-based user login system that compares a stored password string using str_cmp.
+
+82.Use a 2-D character array to store and display a tix-tax-toe board.
+
+83.Write a function that takes a string and reverses it in place.
+
+84.Implement a trim function that removes leading and trailing spaces from a string.
+
+85.Create a program that checks if a given string is a palindrome (the same forwards and backwards) and outputs the result.
+
+86.Create a program using do-while to find password checker until a valid password is entered.
+
+87.Create a program using break to read inputs from the user in a loop and break the loop if a specific keyword (like "exit") is entered.

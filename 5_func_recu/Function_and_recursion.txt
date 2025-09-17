@@ -1,0 +1,19 @@
+		Function and recursion 
+
+50.Write a function named greet that print "Hello, world!" when called.
+
+51.Write a function that adds that takes 4 int parameters and returns the sum.
+
+52.Define a function square that takes an int and returns its square.
+
+53.Call a function print_date that prints the current date. Define the function without any parameters.
+
+54.Create a function max that takes two float arguments and returns the larger value.
+
+55.Demonstrate with a function increment that the original integer passed to it does not change after incrementing it inside the function.
+
+56.Call a function get_average that takes five int numbers and returns the average.
+
+57.Create a program using recursion to display the Fibonacci series up to a certain number.
+
+58.Create a program using recursion to check if a number is a palindrome using recursion.
