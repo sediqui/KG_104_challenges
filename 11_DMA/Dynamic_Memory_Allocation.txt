@@ -1,0 +1,11 @@
+																	Dynamic Memory Allocation 
+
+94.Create a program that dynamically allocates memory for a Car structure and then free it at the end of the program.
+
+95.Create a program that uses malloc to dynamically allocate an array for a specified number of float values entered by the user and then stores user-entered numbers into it.
+
+96.Use calloc to allocate an array for a set of char characters representing sentence, ensuring all the memory is initialized to zero.
+
+97.Allocate memory for a struct representing a Point with x and y coordinates, set some values, and then properly deallocate the memory using free.
+
+98.Create an array using calloc and fill it with random numbers, then use realloc to shrink the array size by half and print the remaining numbers.

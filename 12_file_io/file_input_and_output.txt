@@ -1,0 +1,13 @@
+													File Input/Output 
+
+99.Write a program that asks the user for a filename, attempts to open it, and reports whether the operation was successful or not.
+
+100.Create a program that reads integers from a file and calculates their sum.
+
+101.Write a program that copies one text file's contents to anther, stopping when it reaches EOF of the source file.
+
+102.Write a program that takes user Input and writes it to a file, ensuring each entry is on a new line.
+
+103.Develop a program that appends user input to the end of a log file each time it's run.
+
+104.Create a program that performs both reading and writing operations on a fil called data.txt
